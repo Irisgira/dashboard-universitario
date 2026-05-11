@@ -4,8 +4,8 @@
 Dashboard interactivo para analizar datos de admisiones, retención y satisfacción estudiantil de una universidad.
 
 ## Integrantes
+-  Mauricio Bustillos Benitez
 - Iris Giraldo Rincon
-- Mauricio Bustillos Benitez
 
 ## Tecnologías
 - Python
@@ -17,3 +17,9 @@ Dashboard interactivo para analizar datos de admisiones, retención y satisfacci
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+
+## Links
+
+- GitHub: https://github.com/Irisgira/dashboard-universitario
+- Dashboard: https://dashboard-universitario-tpkqsm27r5zxbqlah4jjiw.streamlit.app
